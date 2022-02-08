@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhabishya-123
+- 👋 Hi, I’m Bhabishya Ghimire
 - 👀 I’m interested in coding like php, java, javascript, c, c++ etc
 - 🌱 I’m currently learning html css and javascript
 - 💞️ I’m looking to collaborate on any projects
