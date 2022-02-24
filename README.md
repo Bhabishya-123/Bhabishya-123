@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhabishya Ghimire
 - 👀 I’m interested in coding like php, java, javascript, c, c++ etc
-- 🌱 I’m currently learning html css and javascript
+- 🌱 I’m currently learning html css javascript react and nodejs
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me  email me on bhabishyaghimire88@gmail.com
 
