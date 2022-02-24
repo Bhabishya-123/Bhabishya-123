@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhabishya Ghimire
+- 👋 Hi, I’m Bhabishya Ghimire (Website Fullstack-Developer)
 - 👀 I’m interested in coding like php, java, javascript, c, c++ etc
 - 🌱 I’m currently learning html css javascript react and nodejs
 - 💞️ I’m looking to collaborate on any projects
