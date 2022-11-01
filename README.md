@@ -8,15 +8,15 @@
 
 ## 🛠 Skills
 
-**📌 Backend Development**
-- Server-Side: PHP, Node.js/Express.js
-- Database: SQL / MySQL, NoSQL / MongoDB 
-
 **🎨 Frontend Development**
 - React.js
 - JavaScript / ES6 
 - Bootstrap Material UI
 - CSS / SASS
+
+**📌 Backend Development**
+- Server-Side: PHP, Node.js/Express.js
+- Database: SQL / MySQL, NoSQL / MongoDB 
 
 **🎁 Other Skills**
 - Poem maker
