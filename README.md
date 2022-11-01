@@ -26,10 +26,10 @@
 - Basic edit: Movavi video editor
 
 ## 🔗 Connect with me
-[![linkedin]](https://www.linkedin.com/in/bhabishya-ghimire-655286221/)]
-[![youtube](https://www.youtube.com/c/FutureTechnical88)]
-[![instagram](https://www.instagram.com/futuretechnical77/)]
-[![programming group](https://www.facebook.com/groups/284428180426250)]
+[[linkedin]](https://www.linkedin.com/in/bhabishya-ghimire-655286221/)
+[[youtube]](https://www.youtube.com/c/FutureTechnical88)
+[[instagram]](https://www.instagram.com/futuretechnical77/)
+[[programming group]](https://www.facebook.com/groups/284428180426250)
 
 
 ## Hobbies
