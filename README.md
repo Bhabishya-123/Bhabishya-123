@@ -9,10 +9,11 @@
 ## 🛠 Skills
 
 **🎨 Frontend Development**
-- React.js
-- JavaScript / ES6 
-- Bootstrap Material UI
+- HTML/HTML5
 - CSS / SASS
+- Bootstrap/Material UI
+- JavaScript / ES6 
+- React.js
 
 **📌 Backend Development**
 - Server-Side: PHP, Node.js/Express.js
