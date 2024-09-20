@@ -14,9 +14,10 @@
 - Bootstrap/Material UI
 - JavaScript / ES6 
 - React.js
+- Angular
 
 **📌 Backend Development**
-- Server-Side: PHP, Node.js/Express.js
+- Server-Side: PHP, Node.js/Express.js, ASP.Net
 - Database: SQL / MySQL, NoSQL / MongoDB 
 
 **🎁 Other Skills**
